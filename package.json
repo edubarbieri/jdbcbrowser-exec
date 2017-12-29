@@ -1,0 +1,22 @@
+{
+  "name": "jdbcbrowser-exec",
+  "version": "1.0.0",
+  "description": "Js lib to run sql query in dynamo jdbc browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edubarbieri/jdbcbrowser-exec.git"
+  },
+  "author": "Eduardo dos Santos Barbieri <duduardo23@gmail.com> (https://edubarbieri.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edubarbieri/jdbcbrowser-exec/issues"
+  },
+  "homepage": "https://github.com/edubarbieri/jdbcbrowser-exec#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
